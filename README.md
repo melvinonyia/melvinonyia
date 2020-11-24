@@ -1,4 +1,4 @@
-# Hello, I'm Melvin 👋
+# Hello, I'm Melvin 👋🏿
 
 Business-driven and highly self-motivated software engineer. Specialize in adaptive tactile problem-solving, working with challenging projects and learns/adapts quickly.
 
