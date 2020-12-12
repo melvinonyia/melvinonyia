@@ -4,7 +4,7 @@ Business-driven and highly self-motivated software engineer. Specialize in adapt
 
 As a self-motivated individual, I keep pursuing my passion for building amazing products that drive me to have an always be learning mentality and having passionate conversations with strangers or fellow techies on emerging technologies.
 
-JavaScript, React, Node.js, Python, Ruby, Java 
+JavaScript, React, Node.js, Python, Ruby, Swift 
 
 <!--
 **melvinonyia/melvinonyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
