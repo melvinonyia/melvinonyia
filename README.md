@@ -1,10 +1,7 @@
 # Hello, I'm Melvin 👋🏿
+I am an experienced software engineer with a demonstrated history of building resilient backend systems for high-traffic web and mobile applications in fast-paced startup environments. My commitment to design and modularity enables me to create secure, scalable, and efficient solutions that meet the unique needs of each project. I am dedicated to the craft and constantly strive to enhance my skills and expertise through continued education and training.
 
-Business-driven and highly self-motivated software engineer. Specialize in adaptive tactile problem-solving, working with challenging projects and learns/adapts quickly.
-
-As a self-motivated individual, I keep pursuing my passion for building amazing products that drive me to have an always be learning mentality and having passionate conversations with strangers or fellow techies on emerging technologies.
-
-JavaScript, React, Node.js, Python, Ruby, Swift 
+TypeScript, Ruby, Python, PHP, C++, Go, Java 
 
 <!--
 **melvinonyia/melvinonyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
