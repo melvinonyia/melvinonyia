@@ -1,7 +1,10 @@
-# Hello, I'm Melvin 👋🏿
-I am an experienced software engineer with a demonstrated history of building resilient backend systems for high-traffic web and mobile applications in fast-paced startup environments. My commitment to design and modularity enables me to create secure, scalable, and efficient solutions that meet the unique needs of each project. I am dedicated to the craft and constantly strive to enhance my skills and expertise through continued education and training.
+# Melvin's Profile
 
-TypeScript, Ruby, Python, PHP, C++, Go, Java 
+## Introduction
+Greetings! I'm Melvin, an experienced software engineer with a focus on crafting resilient backend systems for web and mobile applications experiencing high volumes of traffic. Operating predominantly in fast-paced startup environments, my commitment to adhering to design principles and ensuring system modularity has empowered me to deliver secure, scalable, and efficient technological solutions. Passionate about my craft, I continuously strive to expand my technical expertise and proficiency through ongoing education and training.
+
+## Technical Expertise
+- **Languages**: TypeScript, Ruby, Python, PHP, C++, Go, Java
 
 <!--
 **melvinonyia/melvinonyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
