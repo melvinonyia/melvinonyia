@@ -1,7 +1,11 @@
-## Introduction
-Greetings! I'm Melvin, an experienced software engineer with a focus on crafting resilient backend systems for web and mobile applications experiencing high volumes of traffic. Operating predominantly in fast-paced startup environments, my commitment to adhering to design principles and ensuring system modularity has empowered me to deliver secure, scalable, and efficient technological solutions. Passionate about my craft, I continuously strive to expand my technical expertise and proficiency through ongoing education and training.
+# Welcome! 👋🏿
 
-## Technical Experience
+**I'm Melvin** - a seasoned software engineer specializing in the development of resilient distributed systems and data pipelines.  My experience is primarily in fast-paced startup environments where my commitment to design principles and system modularity enables me to deliver secure, scalable, and efficient technological solutions. 
+
+I'm deeply passionate about my craft, consistently striving to expand my technical knowledge and skills through continuous learning and professional development.
+
+### 🛠 Skills & Expertise
+
 | Category              | Skills                                                                                                                                  |
 | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
 | Programming Languages | Python, JavaScript, TypeScript, Java, Rust, Go, C++, PHP, Ruby, Perl                                                                    |
